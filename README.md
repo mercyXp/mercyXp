@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mercy @mercyXp. I'm passionate about creating innovative solutions that make a real impact in the digital world.
 - 👀 I’m interested in creating user-friendly websites and mobile apps, data science, AI and machine learning.
 - 🌱 I’m currently learning python and java for web and mobile apps development
-- 💞️ I’m looking to collaborate on any cloiemt and server-side development.
+- 💞️ I’m looking to collaborate on any cliemt and server-side development.
 - 📫 How to reach me: munzenzimercy2024@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: Who but a lunatic will bandy words with a redifussion set.
