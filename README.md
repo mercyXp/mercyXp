@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating user-friendly websites and mobile apps, data science, AI and machine learning.
 - 🌱 I’m currently learning python and Kotlin for web and mobile apps development
 - 💞️ I’m looking to collaborate on any cliemt and server-side development.
-- 📫 How to reach me: munzenzimercy2024@gmail.com
+- 📫 How to reach me: munzenzimercy9@gmail.com
 - ⚡ Fun fact: All collaborations must be lucrative and enhance my skills.
 
 <h3 align="left">Tech Stack:</h3>
