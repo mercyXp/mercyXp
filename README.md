@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Mercy. I'm passionate about creating innovative solutions that make a real impact in the digital world.
-- 👀 I’m interested in creating user-friendly websites and mobile apps, data science, AI and machine learning.
-- 🌱 I’m currently learning python and Kotlin for web and mobile apps development
+- 👀 I’m interested in creating user-friendly websites and mobile apps. Data science, AI and machine learning also takes my fancy.
+- 🌱 I’m currently learning python and JavaScript for web and mobile apps development
 - 💞️ I’m looking to collaborate on any client and server-side development.
 - 📫 How to reach me: munzenzimercy9@gmail.com
 - ⚡ Fun fact: All collaborations must be lucrative and aim to enhance my skills.
