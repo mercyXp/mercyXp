@@ -94,7 +94,7 @@
   </a>
 </p>
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mercyXp/mercyXp/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🌱 I'm Currently Learning 
