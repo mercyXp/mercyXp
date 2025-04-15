@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Mercy
 ### Passionate about creating innovative digital solutions
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1500&color=F8C537&background=45FF8B00&width=500&lines=TECH+ENTHUSIAST;FULL+STACK+DEVELOPER;PROGRAMMING+TUTOR;ASPIRING+DEVOPS+ENGINEER)](https://git.io/typing-svg)
 
 🔭 I'm building user-friendly websites and mobile apps  
@@ -7,7 +8,7 @@
 💡 Fascinated by Data Science, AI & Machine Learning  
 🤝 Looking for lucrative collaborations to enhance my skills  
 ⚡ Fun fact: I believe every project should be both impactful and rewarding  
-
+---
 
 <h3 align="left">✨ My Tech Stack ✨</h3>
 <p align="left">
@@ -34,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
   </a>
 </p>
-
+---
 <h3 align="left">🛠️ My Development Tools</h3>
 <p align="left">
   <!-- Version Control -->
@@ -78,7 +79,7 @@
   </a>
 </p>
 
-
+---
 
 ## 📫 Let's Connect!
 
@@ -93,8 +94,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
-
-![Snake animation](https://github.com/mercyXp/mercyXp/blob/output/github-contribution-grid-snake.svg)
+---
 
 
 ## 🌱 I'm Currently Learning 
