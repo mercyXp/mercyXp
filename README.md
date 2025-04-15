@@ -8,7 +8,7 @@
 💡 Fascinated by Data Science, AI & Machine Learning  
 🤝 Looking for lucrative collaborations to enhance my skills  
 ⚡ Fun fact: I believe every project should be both impactful and rewarding  
----
+
 
 <h3 align="left">✨ My Tech Stack ✨</h3>
 <p align="left">
@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
   </a>
 </p>
----
+
 <h3 align="left">🛠️ My Development Tools</h3>
 <p align="left">
   <!-- Version Control -->
@@ -79,7 +79,7 @@
   </a>
 </p>
 
----
+</br>
 
 ## 📫 Let's Connect!
 
@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
----
+<br></br>
 
 
 ## 🌱 I'm Currently Learning 
