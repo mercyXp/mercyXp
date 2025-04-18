@@ -1,7 +1,7 @@
-<div align="center">
+
 # Hi there 👋, I'm Mercy
 ### Passionate about creating innovative digital solutions
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1500&color=F8C537&background=45FF8B00&width=500&lines=TECH+ENTHUSIAST;FULL+STACK+DEVELOPER;PROGRAMMING+TUTOR;ASPIRING+DEVOPS+ENGINEER)](https://git.io/typing-svg)
 
 🔭 I'm building user-friendly websites and mobile apps  
