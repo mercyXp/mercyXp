@@ -9,7 +9,7 @@
 🌱 Currently mastering JavaScript  
 💡 Fascinated by Data Science, AI & Machine Learning  
 🤝 Looking for lucrative collaborations to enhance my skills  
-⚡ Fun fact: I believe every project should be both impactful and rewarding  
+⚡ Fun fact:  I still believe semicolons have feelings—so I never leave them out. 
 
 
 <h3 align="left">✨ My Tech Stack ✨</h3>
