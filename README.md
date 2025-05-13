@@ -4,13 +4,12 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1500&color=F8C537&background=45FF8B00&width=500&lines=TECH+ENTHUSIAST;FULL+STACK+DEVELOPER;PROGRAMMING+TUTOR;ASPIRING+DEVOPS+ENGINEER)](https://git.io/typing-svg)
-
-🔭 I'm building user-friendly websites and mobile apps  
-🌱 Currently mastering JavaScript  
-💡 Fascinated by Data Science, AI & Machine Learning  
-🤝 Looking for lucrative collaborations to enhance my skills  
-⚡ Fun fact:  I still believe semicolons have feelings—so I never leave them out. 
-
+</div>
+🔭 I am focused on solving real life problems bu building user-friendly websites and mobile apps  
+🌱 Currently mastering JavaScript and Python along with it's frameworks.
+💡 Data Science, AI & Machine Learning takes my fancy.
+🤝 Looking for lucrative collaborations to enhance my skills and expertise in software development.
+⚡ Fun fact:  I still believe semicolons have feelings—so I never leave them out.
 
 <h3 align="left">✨ My Tech Stack ✨</h3>
 <p align="left">
