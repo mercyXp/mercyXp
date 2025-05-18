@@ -99,14 +99,6 @@ I'm a **Full Stack Developer** with a strong passion for **cloud computing, auto
 
 ---
 
-## **📊 GitHub Stats**  
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mercyXp&show_icons=true&theme=radical&count_private=true" alt="Mercy's GitHub Stats" />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercyXp&layout=compact&theme=radical" alt="Top Languages" />  
-</div>  
-
----
-
 ## **📬 Let's Connect!**  
 I'm always open to **collaborations, mentorship, and new opportunities**. Feel free to reach out!  
 
@@ -117,9 +109,7 @@ I'm always open to **collaborations, mentorship, and new opportunities**. Feel f
 ---
 
 ### **🎯 Open for Opportunities!**  
-🔹 **Full Stack Development**  
-🔹 **DevOps & Cloud Engineering**  
-🔹 **Data Science Projects**  
+🔹 **Full Stack Development**    
 
 Let's build something amazing together! 🚀  
 
