@@ -27,7 +27,7 @@ I'm a **Full Stack Developer** with a strong passion for **cloud computing, auto
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
 
 ### **🌐 Frontend & Backend Development**  
-#### **Specializing in MERN, .NET, Ruby on Rails & Django**  
+#### **Specializing in MERN, .NET, Django/Flask/FASTAPI**  
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=4A90E2&width=600&lines=Modern+Web+Development;Cloud-Native+Solutions;Database+Architecture;CI%2FCD+Pipelines)](https://git.io/typing-svg)  
@@ -53,15 +53,6 @@ I'm a **Full Stack Developer** with a strong passion for **cloud computing, auto
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
-</p>
-
-###### **💎 Ruby on Rails Stack**
-<p align="left">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Hotwire-00C7B7?style=for-the-badge" alt="Hotwire">
-  <img src="https://img.shields.io/badge/RSpec-FF0000?style=for-the-badge&logo=ruby&logoColor=white" alt="RSpec">
 </p>
 
 ###### **🐍 Django Stack**
