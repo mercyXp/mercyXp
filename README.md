@@ -1,12 +1,12 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1500&color=F8C537&background=45FF8B00&width=500&lines=TECH+ENTHUSIAST;FULL+STACK+DEVELOPER;PROGRAMMING+TUTOR;ASPIRING+DEVOPS+ENGINEER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1500&color=F8C537&background=45FF8B00&width=500&lines=TECH+ENTHUSIAST;ASPIRING+FULL+STACK+DEVELOPER;PROGRAMMING+TUTOR;FUTURE+DEVOPS+ENGINEER)](https://git.io/typing-svg)
 </div>
 
 ---
 
 ## **👨‍💻 About Me**  
-I'm a **Full Stack Developer** with a strong passion for **cloud computing, automation, and AI-driven solutions**. I specialize in building **high-performance web and mobile applications** while continuously expanding my expertise in **DevOps and Machine Learning**.  
+I'm an  **Aspiring Full Stack Developer** with a strong passion for **cloud computing, automation, and AI-driven solutions**. I specialize in building **high-performance web and mobile applications** while continuously expanding my expertise in **DevOps and Machine Learning**.  
 
 🔹 **Problem Solver** – Transforming real-world challenges into efficient digital solutions.  
 🔹 **Continuous Learner** – Always exploring new technologies to stay ahead in the tech landscape.  
