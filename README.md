@@ -6,7 +6,7 @@
 ---
 
 ## **👨‍💻 About Me**  
-I'm an  **Aspiring Full Stack Developer** with a strong passion for **cloud computing, automation, and AI-driven solutions**. I specialize in building **high-performance web and mobile applications** while continuously expanding my expertise in **DevOps and Machine Learning**.  
+I'm an  **Aspiring Full Stack Developer** with a strong passion for **cloud computing, automation, and AI-driven solutions**. I specialize in building **high-performance web and mobile applications** while continuously expanding my expertise in **DevOps**.  
 
 🔹 **Problem Solver** – Transforming real-world challenges into efficient digital solutions.  
 🔹 **Continuous Learner** – Always exploring new technologies to stay ahead in the tech landscape.  
