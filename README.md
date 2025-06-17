@@ -27,7 +27,7 @@ I'm an  **Aspiring Full Stack Developer** with a strong passion for **cloud comp
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
 
 ### **🌐 Frontend & Backend Development**  
-#### **Specializing in MERN, .NET, Django/Flask/FASTAPI**  
+#### **Specializing in MERN, .NET, Django**  
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=4A90E2&width=600&lines=Modern+Web+Development;Cloud-Native+Solutions;Database+Architecture;CI%2FCD+Pipelines)](https://git.io/typing-svg)  
