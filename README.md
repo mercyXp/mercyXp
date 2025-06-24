@@ -56,8 +56,7 @@ I'm an  **Aspiring Full Stack Developer** with a strong passion for **cloud comp
 
 ## **🚀 What I'm Currently Exploring**  
 - **Advanced JavaScript & React Optimization**  
-- **DevOps: CI/CD Pipelines, Kubernetes, and Infrastructure as Code (IaC)**  
-- **AI/ML: TensorFlow, PyTorch, and Data Science Applications**  
+- **DevOps: CI/CD Pipelines, Kubernetes, and Infrastructure as Code (IaC)**    
 
 ---
 
@@ -66,7 +65,7 @@ I'm always open to **collaborations, mentorship, and new opportunities**. Feel f
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mercy-munzenzi-183056362/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munzenzimercy9@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mercyanna30)  
 
 ---
 
