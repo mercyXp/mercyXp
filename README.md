@@ -5,21 +5,10 @@
 
 ---
 ---
-# 👋 Hello World! I'm Mercy Munzenzi
+# 👋 Hello World! I'm Mercy
+---
+I have been turning coffee into code since 2022. I don't create bugs - I write unexpected feature experiments. 
 
-I have been turning coffee into code since 2022. I don't create bugs - I write unexpected feature experiments.
-
-**Current Status:**  
-🌱 Growing my skills one commit at a time  
-💬 Ask me about my latest "it worked on my machine" story  
-
-When I'm not battling semicolons or chasing missing brackets, you'll find me:
-- Reading tech blogs instead of bedtime stories
-- Having passionate arguments with my IDE
-- Writing code that sometimes even runs, or simply
-- Watching movies(not Nigerian/kdrama lol)
-
-P.S. I pronounce "Git" correctly (it's not "JIT"!)
 ---
 ## **👨‍💻 More About Me**  
 I'm an  **Aspiring Full Stack Developer** with a strong passion for **cloud computing, automation, and AI-driven solutions**. I specialize in building **high-performance web and mobile applications** while continuously expanding my expertise in **DevOps**.  
@@ -30,6 +19,13 @@ I'm an  **Aspiring Full Stack Developer** with a strong passion for **cloud comp
 
 ⚡ **Fun Fact:** I still believe semicolons have feelings—so I never leave them out!  
 
+When I'm not battling semicolons or chasing missing brackets, you'll find me:
+- 📖Reading tech blogs instead of bedtime stories
+- 🌍 Daydreaming about my next travel adventure
+- 🎵 Curating playlists for every mood—including "debugging frustration"
+- 🎬🍿Watching movies(not Nigerian/kdrama lol)
+
+P.S. I pronounce "Git" correctly (it's not "JIT"!)
 ---
 
 ## **🛠️ Technical Skills**  
