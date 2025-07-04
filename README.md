@@ -4,8 +4,24 @@
 </div>
 
 ---
+---
+# 👋 Hello World! I'm Mercy Munzenzi
 
-## **👨‍💻 About Me**  
+A curious full-stack developer in the making, turning coffee into code since 2022. I don't create bugs - I write unexpected feature experiments.
+
+**Current Status:**  
+🌱 Growing my skills one commit at a time  
+⚡ Fun fact: Can debug CSS while half-asleep  
+💬 Ask me about my latest "it worked on my machine" story  
+
+When I'm not battling semicolons or chasing missing brackets, you'll find me:
+- Reading tech blogs instead of bedtime stories
+- Having passionate arguments with my IDE
+- Writing code that sometimes even runs
+
+P.S. I pronounce "Git" correctly (it's not "JIT"!)
+---
+## **👨‍💻 More About Me**  
 I'm an  **Aspiring Full Stack Developer** with a strong passion for **cloud computing, automation, and AI-driven solutions**. I specialize in building **high-performance web and mobile applications** while continuously expanding my expertise in **DevOps**.  
 
 🔹 **Problem Solver** – Transforming real-world challenges into efficient digital solutions.  
