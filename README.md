@@ -25,7 +25,7 @@ When I'm not battling semicolons or chasing missing brackets, you'll find me:
 - 🎵 Curating playlists for every mood—including "debugging frustration"
 - 🎬🍿Watching movies(not Nigerian/kdrama lol)
 
-P.S. I pronounce "Git" correctly (it's not "JIT"!)
+<p> <b>P.S</b>I pronounce <strong>"Git"</strong>correctly (it's not "JIT"!)</p>
 ---
 
 ## **🛠️ Technical Skills**  
