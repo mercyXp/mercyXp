@@ -7,17 +7,17 @@
 ---
 # 👋 Hello World! I'm Mercy Munzenzi
 
-A curious full-stack developer in the making, turning coffee into code since 2022. I don't create bugs - I write unexpected feature experiments.
+I have been turning coffee into code since 2022. I don't create bugs - I write unexpected feature experiments.
 
 **Current Status:**  
 🌱 Growing my skills one commit at a time  
-⚡ Fun fact: Can debug CSS while half-asleep  
 💬 Ask me about my latest "it worked on my machine" story  
 
 When I'm not battling semicolons or chasing missing brackets, you'll find me:
 - Reading tech blogs instead of bedtime stories
 - Having passionate arguments with my IDE
-- Writing code that sometimes even runs
+- Writing code that sometimes even runs, or simply
+- Watching movies(not Nigerian/kdrama lol)
 
 P.S. I pronounce "Git" correctly (it's not "JIT"!)
 ---
