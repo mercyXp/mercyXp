@@ -26,7 +26,6 @@ When I'm not battling semicolons or chasing missing brackets, you'll find me:
 - 🎬🍿Watching movies(not Nigerian/kdrama lol)
 
 <p> <b>P.S</b>I pronounce <strong>"Git"</strong>correctly (it's not "JIT"!)</p>
----
 
 ## **🛠️ Technical Skills**  
 
@@ -68,7 +67,7 @@ When I'm not battling semicolons or chasing missing brackets, you'll find me:
 
 ## **🚀 What I'm Currently Exploring**  
 - **Advanced JavaScript & React Optimization**  
-- **DevOps: CI/CD Pipelines, Kubernetes, and Infrastructure as Code (IaC)**    
+- **AWS**    
 
 ---
 
