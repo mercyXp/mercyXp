@@ -5,7 +5,7 @@
 
 ---
 ---
-# 👋 Hello World! I'm Mercy
+# 👋 Hello!  I'm Mercy
 ---
 I have been turning coffee into code since 2022. I don't create bugs - I write unexpected feature experiments. 
 
