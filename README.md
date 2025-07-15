@@ -12,7 +12,7 @@
 
 Aspiring **Full Stack Developer** with a passion for **DevOps, cloud computing, and automation**. I enjoy building fast, scalable web apps and solving real-world problems with code.
 
-- 🔧 Backend & Frontend (MERN, Django, .NET)
+- 🔧 Backend & Frontend (MERN, Django)
 - ☁️ Cloud & DevOps (Linux, Bash, Docker)
 - 💡 Lifelong learner, tech community enthusiast
 - ⚡ Fun fact: I never leave out semicolons — they have feelings 😄
