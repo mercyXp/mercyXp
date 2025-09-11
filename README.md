@@ -29,6 +29,7 @@ Aspiring **Full Stack Developer** with a passion for **DevOps, cloud computing, 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
