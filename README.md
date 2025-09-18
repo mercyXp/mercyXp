@@ -10,7 +10,7 @@
 
 # 👋 Hi, I'm Mercy
 
-An aspiring **Full Stack Developer** with a passion for **DevOps, cloud computing, and automation**. I enjoy solving real world problems through line of code.
+An aspiring **Full Stack Developer** with a passion for **DevOps, cloud computing, and automation**. I enjoy solving real world problems through lines of code.
 
 - 🔧 Backend & Frontend (MERN, Django)
 - ☁️ Cloud & DevOps (Linux, Bash, Docker)
