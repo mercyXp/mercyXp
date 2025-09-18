@@ -22,17 +22,17 @@ Aspiring **Full Stack Developer** with a passion for **DevOps, cloud computing, 
 ## 🛠️ Tech Stack
 
 **Languages & Tools:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)   56%
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  45%
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  78%
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  80%
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  66%
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)  40%
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) 50%
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  355
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  20%
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) 55%
 
 **Cloud & DevOps:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
