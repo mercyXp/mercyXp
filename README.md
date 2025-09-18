@@ -10,7 +10,7 @@
 
 # 👋 Hi, I'm Mercy
 
-Aspiring **Full Stack Developer** with a passion for **DevOps, cloud computing, and automation**. I enjoy building fast, scalable web apps and solving real-world problems with code.
+An aspiring **Full Stack Developer** with a passion for **DevOps, cloud computing, and automation**. I enjoy solving real world problems through line of code.
 
 - 🔧 Backend & Frontend (MERN, Django)
 - ☁️ Cloud & DevOps (Linux, Bash, Docker)
@@ -21,14 +21,53 @@ Aspiring **Full Stack Developer** with a passion for **DevOps, cloud computing, 
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)   56%
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  45%
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  78%
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  80%
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  66%
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)  40%
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) 50%
+**Languages & Tools:** 
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript"/></td>
+    <td width="300">
+      <progress value="56" max="100"></progress> 56%
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></td>
+    <td width="300">
+      <progress value="45" max="100"></progress> 45%
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python"/></td>
+    <td width="300">
+      <progress value="78" max="100"></progress> 78%
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c"/></td>
+    <td width="300">
+      <progress value="80" max="100"></progress> 80%
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B"/></td>
+    <td width="300">
+      <progress value="66" max="100"></progress> 66%
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp"/></td>
+    <td width="300">
+      <progress value="40" max="100"></progress> 40%
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/></td>
+    <td width="300">
+      <progress value="50" max="100"></progress> 50%
+    </td>
+  </tr>
+</table>
+
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  355
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  20%
