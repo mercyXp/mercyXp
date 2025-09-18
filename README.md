@@ -63,6 +63,7 @@ An aspiring **Full Stack Developer** with a passion for **DevOps, cloud computin
 
 - Advanced JavaScript and Python
 - Cloud services (AWS, GCP)
+- Open to collaborate on either frontend, backend or fullstack projects to help me implement my skills and knowledge.
 
 ---
 
