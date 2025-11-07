@@ -26,7 +26,7 @@ An aspiring **Full Stack Developer** with a passion for **DevOps, AI and Data Sc
 **Backend:** Django | Node.js + Express js 
 **DevOps:** Linux| Docker,| Bash  
 **Databases:** PostgreSQL |MySQL | MongoDB 
----
+
 
 ## 🚀 Currently Exploring
 
