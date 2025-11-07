@@ -21,11 +21,21 @@ An aspiring **Full Stack Developer** with a passion for **DevOps, AI and Data Sc
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript | TypeScript | Python | C | C++ | C# 
-**Frontend:** React JS | Next.js | Tailwind CSS  
-**Backend:** Django | Node.js + Express js 
-**DevOps:** Linux| Docker,| Bash  
-**Databases:** PostgreSQL |MySQL | MongoDB 
+**Languages:**  
+`JavaScript` `TypeScript` `Python` `C` `C++` `C#`
+
+**Frontend:**  
+`React` `Next.js` `Tailwind CSS`
+
+**Backend:**  
+`Django` `Node.js` `Express`
+
+**DevOps:**  
+`Linux` `Docker` `Bash`
+
+**Databases:**  
+`PostgreSQL` `MySQL` `MongoDB`
+
 
 
 ## 🚀 Currently Exploring
