@@ -10,7 +10,7 @@
 
 # 👋 Hi, I'm Mercy
 
-An aspiring **Full Stack Developer** with a passion for **DevOps, cloud computing, and automation**. I enjoy solving real world problems through lines of code.
+An aspiring **Full Stack Developer** with a passion for **DevOps, AI and Data Science**. I enjoy solving real world problems through lines of code. Focused on building practical projects and growing as a developer.
 
 - 🔧 Backend & Frontend (MERN, Django)
 - ☁️ Cloud & DevOps (Linux, Bash, Docker)
@@ -21,42 +21,11 @@ An aspiring **Full Stack Developer** with a passion for **DevOps, cloud computin
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
-<table>
-  <tr><td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript"/></td><td width="300"><progress value="56" max="100"></progress> 56%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></td><td width="300"><progress value="45" max="100"></progress> 45%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python"/></td><td width="300"><progress value="78" max="100"></progress> 78%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c"/></td><td width="300"><progress value="80" max="100"></progress> 80%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B"/></td><td width="300"><progress value="66" max="100"></progress> 66%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp"/></td><td width="300"><progress value="40" max="100"></progress> 40%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/></td><td width="300"><progress value="50" max="100"></progress> 50%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/></td><td width="300"><progress value="35" max="100"></progress> 35%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"/></td><td width="300"><progress value="20" max="100"></progress> 20%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/></td><td width="300"><progress value="55" max="100"></progress> 55%</td></tr>
-</table>
-
-### ☁️ Cloud & DevOps
-<table>
-  <tr><td><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker"/></td><td width="300"><progress value="70" max="100"></progress> 70%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux"/></td><td width="300"><progress value="75" max="100"></progress> 75%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash"/></td><td width="300"><progress value="65" max="100"></progress> 65%</td></tr>
-</table>
-
-### 🗄️ Databases
-<table>
-  <tr><td><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql"/></td><td width="300"><progress value="70" max="100"></progress> 70%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql"/></td><td width="300"><progress value="65" max="100"></progress> 65%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb"/></td><td width="300"><progress value="60" max="100"></progress> 60%</td></tr>
-</table>
-
-### 🛠️ Tools
-<table>
-  <tr><td><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code"/></td><td width="300"><progress value="75" max="100"></progress> 75%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma"/></td><td width="300"><progress value="25" max="100"></progress> 25%</td></tr>
-  <tr><td><img src="https://img.shields.io/badge/-Miro-050038?style=flat&logo=miro"/></td><td width="300"><progress value="25" max="100"></progress> 25%</td></tr>
-</table>
-
-
+**Languages:** JavaScript | TypeScript | Python | C | C++ | C# 
+**Frontend:** React JS | Next.js | Tailwind CSS  
+**Backend:** Django | Node.js + Express js 
+**DevOps:** Linux| Docker,| Bash  
+**Databases:** PostgreSQL |MySQL | MongoDB 
 ---
 
 ## 🚀 Currently Exploring
