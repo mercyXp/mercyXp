@@ -10,7 +10,7 @@
 
 # 👋 Hi, I'm Mercy
 
-An aspiring **Full Stack Developer** with a passion for **DevOps, AI and Data Science**. I enjoy solving real world problems through lines of code. Focused on building practical projects and growing as a developer.
+A **Full Stack Developer** with a passion for **DevOps, AI and Data Science**. I enjoy solving real world problems through lines of code. Focused on building practical projects and growing as a developer.
 
 - 🔧 Backend & Frontend (MERN, Django)
 - ☁️ Cloud & DevOps (Linux, Bash, Docker)
