@@ -22,7 +22,7 @@ A **Full Stack Developer** with a passion for **DevOps, AI and Data Science**. I
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`JavaScript` `TypeScript` `Python` `C` `C++` `C#`
+`JavaScript` `TypeScript` `Python` `C` `C++` 
 
 **Frontend:**  
 `React` `Next.js` `Tailwind CSS`
