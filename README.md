@@ -7,6 +7,11 @@
 </p>
 
 <p align="center">
+  <a href="https://mercy-dev-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-Building%20in%20Public-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
