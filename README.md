@@ -1,4 +1,4 @@
-# ✨ Hey there, I'm Mercy Munzenzi!
+# ✨ Hey there, I'm Mercy!
 
 ### 💻 Junior Software Developer · 🤖 AI-Assisted Engineer · 🇿🇲 Zambia
 
